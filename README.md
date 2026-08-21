@@ -4,7 +4,8 @@ A Solidity crowdfunding contract built with [Foundry](https://book.getfoundry.sh
 
 The project is chain-aware: deploy it locally against a mocked price feed on Anvil, or against the real Chainlink ETH/USD feed on Sepolia, with no code changes required.
 
-<img width="1600" height="925" alt="WhatsApp Image 2026-08-20 at 23 55 47" src="https://github.com/user-attachments/assets/dbc68ec8-244a-4037-ab6a-3ff1a3eae7eb" />
+<img width="2640" height="2660" alt="image" src="https://github.com/user-attachments/assets/3a71af19-46bb-40a3-81a6-2017508f3182" />
+
 
 
 ## How it works
