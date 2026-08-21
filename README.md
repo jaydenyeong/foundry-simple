@@ -4,6 +4,9 @@ A Solidity crowdfunding contract built with [Foundry](https://book.getfoundry.sh
 
 The project is chain-aware: deploy it locally against a mocked price feed on Anvil, or against the real Chainlink ETH/USD feed on Sepolia, with no code changes required.
 
+<img width="1600" height="925" alt="WhatsApp Image 2026-08-20 at 23 55 47" src="https://github.com/user-attachments/assets/dbc68ec8-244a-4037-ab6a-3ff1a3eae7eb" />
+
+
 ## How it works
 
 - **`src/FundMe.sol`** — the core contract. Tracks each funder's contribution, enforces the $5 minimum via `PriceConverter`, and restricts `withdraw()` to the owner.
